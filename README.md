@@ -9,7 +9,6 @@
 
 
 
-
-dependencies {
-	        implementation 'com.github.manojoptisoftgit:otpLayout:Tag'
+	dependencies {
+	        implementation 'com.github.manojoptisoftgit:otpviewlayout:b0147f64fd'
 	}
