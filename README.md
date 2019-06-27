@@ -20,6 +20,7 @@
  # we can you 
  
   <com.optisoft.otpview.OTPVIEW
+  
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       app:otpViesSize="6"
